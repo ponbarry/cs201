@@ -5,10 +5,10 @@ This is the website for COMSC 201-02, Fall 2018.
 ### Lecture and Lab Information
 
 * Lecture
-  * Mondays/Wednesdays 2:55-4:10 PM, Clapp 206
+  * Monday/Wednesday 2:55-4:10 PM, Clapp 206
 * Labs
-  * L-03: Thursdays 1:30-4:20 PM, Clapp 201
-  * L-04: Fridays 1:30-4:20 PM, Clapp 201
+  * L-03: Thursday 1:30-4:20 PM, Clapp 201
+  * L-04: Friday 1:30-4:20 PM, Clapp 201
   
 ### Instructor
 Heather Pon-Barry  
