@@ -27,6 +27,6 @@ Office Hours: TBD
 Piazza will be used for course announcements and for question answering. URL: [piazza.com/mtholyoke/fall2018/cs201/home](http://piazza.com/mtholyoke/fall2018/cs201/home)
 
 ### TA Office Hours
-Drop-in help in Kendade 307 will begin on Monday Sept 10
+Drop-in help in Kendade 307 will begin on Monday Sept 10 
 
 
